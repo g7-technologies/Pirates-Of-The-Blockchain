@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x8Ad2168a708CD31088B3339fD0A269a1Ffe9Af55",
+  "SCAN_LINK": "https://etherscan.io/address/0x8Ad2168a708CD31088B3339fD0A269a1Ffe9Af55",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Pirates Of The Blockchain",
+  "SYMBOL": "POTB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 205000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false,
+  "DEEPLINK": "https://metamask.app.link/dapp/potb.io/mint"
+}
